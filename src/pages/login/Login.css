@@ -1,0 +1,29 @@
+.login_page{
+    padding-top: 3rem;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+ .head h2{
+    font-weight: bold ;
+   font-size: 2rem ;
+   margin-bottom: 3rem;
+   margin-top: 3rem;
+}
+
+.submit_btn{
+    margin-top: 1.5rem;
+    width: 350px;
+    border-radius: 0.375rem;
+    border: 0;
+    padding: 0.375rem 0.75rem;
+    line-height: 1.5;
+    font-size: 1rem;
+    background-color: #28cf81;;
+    color: white;
+    font-weight: bold;
+
+}
